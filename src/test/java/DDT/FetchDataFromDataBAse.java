@@ -9,7 +9,7 @@ import java.sql.Statement;
 import com.mysql.jdbc.Driver;
 
 public class FetchDataFromDataBAse {
-
+// i am data base
 	public static void main(String[] args) throws Throwable {
 
 		// step:1 :--->Register driver/load the mysql database
