@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-17T08:47:49 IST" name="Default suite" finished-at="2024-12-17T08:47:49 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2024-12-17T08:47:49 IST" name="Default test" finished-at="2024-12-17T08:47:49 IST" duration-ms="80">
+      <class name="testNg.SampleTest">
+        <test-method signature="deleteContact()[pri:-1, instance:testNg.SampleTest@1a942c18]" started-at="2024-12-17T08:47:49 IST" name="deleteContact" finished-at="2024-12-17T08:47:49 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContact -->
+        <test-method signature="modifyContact()[pri:0, instance:testNg.SampleTest@1a942c18]" started-at="2024-12-17T08:47:49 IST" name="modifyContact" finished-at="2024-12-17T08:47:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyContact -->
+        <test-method signature="createContact()[pri:1, instance:testNg.SampleTest@1a942c18]" started-at="2024-12-17T08:47:49 IST" name="createContact" finished-at="2024-12-17T08:47:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- testNg.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
